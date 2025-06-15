@@ -57,7 +57,7 @@ const LeadForm: React.FC = () => {
             to_name: formData.name,
             to_email: formData.email,
             whatsapp: formData.whatsapp || 'Not provided',
-            download_link: 'https://files.fm/u/xck8ckq7et',
+            download_link: 'https://files.fm/u/qvsdnfskdn',
             book_title: 'Before You Go Solar: A Nigerian Guide to Making the Right Choice'
           },
           'FmHaxlCbxHu1nh0Al'
